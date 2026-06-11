@@ -34,31 +34,8 @@ My projects include object detection using bounding boxes, polygon based semanti
 * Google Sheets
 * Excel
 
-# Project
-## Rubric-Based LLM Response Evaluation
-This project focuses on rubric-based evaluation of LLM responses using structured review criteria. Each response was assessed for factual correctness, clarity, grammar and fluency, and overall quality, with a final verdict of Accept, Needs Improvement, or Reject.
-
-### Evaluation Criteria
-- **Task Type:** Factual QA, Informational QA, Definition, Explanation, Advice, Classification, or Creative Writing
-- **Accuracy:** Accurate, Partially Accurate, or Incorrect
-- **Clarity:** High, Medium, or Low
-- **Grammar and Fluency:** Good, Moderate, or Poor
-- **Final Verdict:** Accept, Needs Improvement, or Reject
-
-### Review Workflow
-1. Identify the task type.
-2. Evaluate the response for factual correctness.
-3. Review clarity and language quality.
-4. Record annotation notes.
-5. Assign a final verdict based on the rubric.
-
-### Skills Demonstrated
-- Rubric-based evaluation
-- Quality review
-- Instruction following assessment
-- Relevance assessment
-- Guideline adherence
-- Consistency checking
+# Projects
+This section showcases hands-on projects completed using Label Studio and spreadsheet-based review workflows. These projects were designed to develop practical experience in image annotation, response evaluation, quality assurance, and AI training data workflows.
 
 ## Rubric-Based LLM Response Evaluation
 
