@@ -39,6 +39,8 @@ This section showcases hands-on projects completed using Label Studio and spread
 
 ## Rubric-Based LLM Response Evaluation
 
+<img width="1338" height="474" alt="Data Annotation" src="https://github.com/user-attachments/assets/d95b6ea9-d7da-4f0b-aac0-6d1b780027a2" />
+
 This project presents a structured rubric-based assessment of LLM outputs. Responses were reviewed using standard annotation fields to measure factual correctness, clarity, grammar and fluency, and overall response quality. The goal was to apply a consistent evaluation process and identify whether a response should be accepted, improved, or rejected.
 
 ### Evaluation Rubric
