@@ -69,4 +69,4 @@ This project presents a structured rubric-based assessment of LLM outputs. Respo
 - Annotation consistency
 - Quality assurance
   
-📄 [LLM Response Evaluation Worksheet](Rubric-Based-LLM-Response-Evaluation.xlsx)
+📄 [LLM Response Evaluation Worksheet](Rubric-Based-LLM-Response-Evaluation.xlsx) [Download raw file to explore further]
