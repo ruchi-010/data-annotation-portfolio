@@ -4,9 +4,7 @@ I am a freelance data analyst and data annotation practitioner with experience i
 My projects include object detection using bounding boxes, polygon based semantic segmentation, and rubric based evaluation of LLM responses. This portfolio highlights my annotation work, evaluation methods, and quality assurance practices.
 
 # Skills & Competencies
-
-## Image Annotation
-
+### Image Annotation
 * Bounding Box Annotation
 * Object Detection
 * Polygon Annotation
@@ -14,8 +12,7 @@ My projects include object detection using bounding boxes, polygon based semanti
 * Multi-Class Labeling
 * Instance Identification
 
-## Text Annotation & Evaluation
-
+### Text Annotation & Evaluation
 * Rubric Based LLM Response Evaluation
 * Prompt Evaluation
 * Response Quality Assessment
@@ -23,8 +20,7 @@ My projects include object detection using bounding boxes, polygon based semanti
 * Relevance Assessment
 * Quality Review
 
-## Quality Assurance
-
+### Quality Assurance
 * Annotation Guidelines
 * Consistency Checking
 * Error Identification
@@ -32,7 +28,7 @@ My projects include object detection using bounding boxes, polygon based semanti
 * Quality Control Reviews
 * Guideline Adherence
 
-## Tools & Platforms
+### Tools & Platforms
 
 * Label Studio
 * Google Sheets
@@ -40,11 +36,9 @@ My projects include object detection using bounding boxes, polygon based semanti
 
 # Project
 ## Rubric-Based LLM Response Evaluation
-
 This project focuses on rubric-based evaluation of LLM responses using structured review criteria. Each response was assessed for factual correctness, clarity, grammar and fluency, and overall quality, with a final verdict of Accept, Needs Improvement, or Reject.
 
 ### Evaluation Criteria
-
 - **Task Type:** Factual QA, Informational QA, Definition, Explanation, Advice, Classification, or Creative Writing
 - **Accuracy:** Accurate, Partially Accurate, or Incorrect
 - **Clarity:** High, Medium, or Low
@@ -52,7 +46,6 @@ This project focuses on rubric-based evaluation of LLM responses using structure
 - **Final Verdict:** Accept, Needs Improvement, or Reject
 
 ### Review Workflow
-
 1. Identify the task type.
 2. Evaluate the response for factual correctness.
 3. Review clarity and language quality.
@@ -60,7 +53,6 @@ This project focuses on rubric-based evaluation of LLM responses using structure
 5. Assign a final verdict based on the rubric.
 
 ### Skills Demonstrated
-
 - Rubric-based evaluation
 - Quality review
 - Instruction following assessment
@@ -68,3 +60,34 @@ This project focuses on rubric-based evaluation of LLM responses using structure
 - Guideline adherence
 - Consistency checking
 
+## Rubric-Based LLM Response Evaluation
+
+This project presents a structured rubric-based assessment of LLM outputs. Responses were reviewed using standard annotation fields to measure factual correctness, clarity, grammar and fluency, and overall response quality. The goal was to apply a consistent evaluation process and identify whether a response should be accepted, improved, or rejected.
+
+### Evaluation Rubric
+
+| Field | Allowed Values | Convention |
+| --- | --- | --- |
+| Task Type | Factual QA, Informational QA, Definition, Explanation, Advice, Classification, Creative Writing | Select the primary task the prompt asks the model to perform |
+| Accuracy | Accurate, Partially Accurate, Incorrect | Judge factual correctness only |
+| Clarity | High, Medium, Low | Judge how easy the response is to understand |
+| Grammar and Fluency | Good, Moderate, Poor | Judge spelling, grammar, and natural language quality |
+| Final Verdict | Accept, Needs Improvement, Reject | Overall assessment of response quality |
+
+### Annotation Workflow
+
+- Review the prompt and response.
+- Assign the correct task type.
+- Evaluate accuracy, clarity, and grammar and fluency.
+- Add annotation notes when needed.
+- Provide an improved response if the original output needs revision.
+- Apply a final verdict based on the rubric.
+
+### Skills Demonstrated
+
+- Rubric-based response evaluation
+- Factual correctness assessment
+- Instruction following review
+- Relevance and clarity judgment
+- Annotation consistency
+- Quality assurance
