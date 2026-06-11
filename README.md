@@ -68,3 +68,5 @@ This project presents a structured rubric-based assessment of LLM outputs. Respo
 - Relevance and clarity judgment
 - Annotation consistency
 - Quality assurance
+  
+📄 [LLM Response Evaluation Worksheet](assets/llm-response-evaluation.xlsx)
