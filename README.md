@@ -6,7 +6,7 @@ My projects include object detection using bounding boxes, polygon based semanti
 # Skills & Competencies
 ### Image Annotation
 
-<img width="1366" height="606" alt="label studio sample 2" src="https://github.com/user-attachments/assets/4e9d373b-5156-4704-b001-c3a078c46708" />  <img width="755" height="634" alt="label studio sample 1" src="https://github.com/user-attachments/assets/cfd2d639-0536-496a-967b-68af675137fa" />
+<img width="1366" height="606" alt="label studio sample 2" src="https://github.com/user-attachments/assets/4e9d373b-5156-4704-b001-c3a078c46708" /> 
 
 * Bounding Box Annotation
 * Object Detection
@@ -32,7 +32,6 @@ My projects include object detection using bounding boxes, polygon based semanti
 * Guideline Adherence
 
 ### Tools & Platforms
-
 * Label Studio
 * Google Sheets
 * Excel
@@ -57,7 +56,6 @@ This project presents a structured rubric-based assessment of LLM outputs. Respo
 | Final Verdict | Accept, Needs Improvement, Reject | Overall assessment of response quality |
 
 ### Annotation Workflow
-
 - Review the prompt and response.
 - Assign the correct task type.
 - Evaluate accuracy, clarity, and grammar and fluency.
@@ -66,7 +64,6 @@ This project presents a structured rubric-based assessment of LLM outputs. Respo
 - Apply a final verdict based on the rubric.
 
 ### Skills Demonstrated
-
 - Rubric-based response evaluation
 - Factual correctness assessment
 - Instruction following review
