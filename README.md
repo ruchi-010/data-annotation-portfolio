@@ -80,4 +80,5 @@ This project presents a structured rubric-based assessment of LLM outputs. Respo
 This project was undertaken to develop practical skills in image annotation for object detection tasks. A total of 200 images were annotated in Label Studio using the bounding box technique to identify and classify vehicles across multiple categories.
 
 The annotation process included drawing accurate bounding boxes around objects and assigning the appropriate class labels: Car, Bike, Bus, Truck, and Ambulance. This project strengthened my understanding of annotation guidelines, multi-class labeling, object identification, and dataset quality standards used in AI training data workflows.
+
 📁 [View Bounding Box Annotation Project](Bounding-Box-Annotation-Project)
