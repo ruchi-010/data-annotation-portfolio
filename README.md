@@ -5,6 +5,9 @@ My projects include object detection using bounding boxes, polygon based semanti
 
 # Skills & Competencies
 ### Image Annotation
+
+<img width="1366" height="606" alt="label studio sample 2" src="https://github.com/user-attachments/assets/4e9d373b-5156-4704-b001-c3a078c46708" />  <img width="755" height="634" alt="label studio sample 1" src="https://github.com/user-attachments/assets/cfd2d639-0536-496a-967b-68af675137fa" />
+
 * Bounding Box Annotation
 * Object Detection
 * Polygon Annotation
@@ -19,11 +22,7 @@ My projects include object detection using bounding boxes, polygon based semanti
 * Instruction Following Assessment
 * Relevance Assessment
 * Quality Review
-
-<img width="1366" height="606" alt="label studio sample 2" src="https://github.com/user-attachments/assets/4e9d373b-5156-4704-b001-c3a078c46708" />
-<img width="755" height="634" alt="label studio sample 1" src="https://github.com/user-attachments/assets/cfd2d639-0536-496a-967b-68af675137fa" />
-
-
+  
 ### Quality Assurance
 * Annotation Guidelines
 * Consistency Checking
