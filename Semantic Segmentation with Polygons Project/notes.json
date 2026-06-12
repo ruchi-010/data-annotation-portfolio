@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Bear"
+    },
+    {
+      "id": 1,
+      "name": "Bird"
+    },
+    {
+      "id": 2,
+      "name": "Bus"
+    },
+    {
+      "id": 3,
+      "name": "Car"
+    },
+    {
+      "id": 4,
+      "name": "Cat"
+    },
+    {
+      "id": 5,
+      "name": "Cow"
+    },
+    {
+      "id": 6,
+      "name": "Deer"
+    },
+    {
+      "id": 7,
+      "name": "Dog"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
