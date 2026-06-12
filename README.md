@@ -82,3 +82,14 @@ This project was undertaken to develop practical skills in image annotation for 
 The annotation process included drawing accurate bounding boxes around objects and assigning the appropriate class labels: Car, Bike, Bus, Truck, and Ambulance. This project strengthened my understanding of annotation guidelines, multi-class labeling, object identification, and dataset quality standards used in AI training data workflows.
 
 📁 [View Bounding Box Annotation Project](Bounding-Box-Annotation-Project)
+
+## Polygon-Based Semantic Segmentation
+
+<img width="1366" height="683" alt="Screenshot (1424)" src="https://github.com/user-attachments/assets/f4d461ff-e2c3-4ded-bf50-be46c855469a" />
+
+This project was undertaken to develop practical experience in semantic segmentation using polygon annotation techniques. Using Label Studio, I annotated 30 images by creating precise polygon boundaries around objects to capture their shapes and locations within each image.
+
+The project involved labeling eight classes: Bear, Bird, Bus, Car, Cat, Cow, Deer, and Dog. Through this work, I gained hands-on experience in polygon annotation, object boundary identification, multi-class labeling, and annotation quality practices commonly used in computer vision and AI training data workflows.
+
+📁 [View Semantic Segmentation with Polygons Project](Semantic-Segmentation-with-Polygons-Project)
+
