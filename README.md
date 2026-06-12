@@ -91,5 +91,5 @@ This project was undertaken to develop practical experience in semantic segmenta
 
 The project involved labeling eight classes: Bear, Bird, Bus, Car, Cat, Cow, Deer, and Dog. Through this work, I gained hands-on experience in polygon annotation, object boundary identification, multi-class labeling, and annotation quality practices commonly used in computer vision and AI training data workflows.
 
-📁 [View Semantic Segmentation with Polygons Project](https://github.com/ruchi-010/data-annotation-portfolio/tree/546ac8291c2d6a0c1ef10899e070e70d2eda46a1/Semantic%20Segmentation%20with%20Polygons%20)
+📁 [View Semantic Segmentation with Polygons Project](Semantic-Segmentation-with-Polygons-Project)
 
