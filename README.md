@@ -72,3 +72,12 @@ This project presents a structured rubric-based assessment of LLM outputs. Respo
 - Quality assurance
   
 📄 [LLM Response Evaluation Worksheet](Rubric-Based-LLM-Response-Evaluation.xlsx) [Download raw file to explore further]
+
+## Bounding Box Annotation
+
+<img width="1366" height="636" alt="Screenshot (1415)" src="https://github.com/user-attachments/assets/8b7242c0-a666-45b2-b686-3d96580e7e1d" />
+
+This project was undertaken to develop practical skills in image annotation for object detection tasks. A total of 200 images were annotated in Label Studio using the bounding box technique to identify and classify vehicles across multiple categories.
+
+The annotation process included drawing accurate bounding boxes around objects and assigning the appropriate class labels: Car, Bike, Bus, Truck, and Ambulance. This project strengthened my understanding of annotation guidelines, multi-class labeling, object identification, and dataset quality standards used in AI training data workflows.
+
